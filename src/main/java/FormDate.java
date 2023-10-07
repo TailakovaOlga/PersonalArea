@@ -4,6 +4,5 @@ public class FormDate {
     public int month;
     public int year;
 
-
-    }
+}
 
