@@ -14,7 +14,7 @@ public class Main {
         boolean isAgree = true;
         if (isAgree) {
             if (!isAgree) {
-                // boolean subscription = isAgree;
+
             }
         }
 
